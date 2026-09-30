@@ -22,10 +22,11 @@ Non mi interessa mostrare demo che funzionano solo in teoria. Ogni progetto qui 
 
 | Progetto | Cosa fa | Stack |
 |---|---|---|
-| **[Intelligence Flux](https://github.com/BigPapiDev/ai-chat-vue)** — [demo live](https://ai-chat-vue-six.vercel.app) | Chat AI con streaming token-per-token via Gemini API, riconoscimento vocale, animazioni reattive | Vue 3.5 · TypeScript · Pinia |
-| **[TaskFlow Board](https://github.com/BigPapiDev/kanban-vue)** — [demo live](https://kanban-vue-sandy.vercel.app) | Kanban board con drag & drop, dark/light mode, persistenza locale | Vue 3.5 · Pinia · Tailwind CSS |
+| **[Sales Intelligence Agent](https://github.com/BigPapiDev/sales-intelligence-agent)** — [demo live](https://sales-intelligence-agent-omega.vercel.app) | Scheduling copilot per PMI di servizi: propone orari, prepara la risposta, chiede sempre approvazione umana prima di inviare (prototipo, dati sintetici) | JavaScript (ES modules) |
 | **[Venture Studio Pipeline](https://github.com/BigPapiDev/venture-studio-pipeline)** | Orchestratore multi-agente che valida idee di business con gate di approvazione umana esplicito e test avversariali (prompt injection, input ambiguo) | Python · Hermes Agent |
 | **[AI Usage Telemetry](https://github.com/BigPapiDev/ai-usage-telemetry)** | Monitoraggio di consumo e costo di Claude Code / GitHub Copilot via OpenTelemetry, con dashboard Grafana/Loki/Prometheus | Python · Docker · Grafana |
+| **[Intelligence Flux](https://github.com/BigPapiDev/ai-chat-vue)** — [demo live](https://ai-chat-vue-six.vercel.app) | Chat AI con streaming token-per-token via Gemini API, riconoscimento vocale, animazioni reattive | Vue 3.5 · TypeScript · Pinia |
+| **[TaskFlow Board](https://github.com/BigPapiDev/kanban-vue)** — [demo live](https://kanban-vue-sandy.vercel.app) | Kanban board con drag & drop, dark/light mode, persistenza locale | Vue 3.5 · Pinia · Tailwind CSS |
 
 ## 🛠️ Stack
 
